@@ -6,3 +6,5 @@ Bienvenidos al repositorio dedicado a **CSI PRO INSIGHTS**. Aquí se encontrará
 
 - [Semestre 2023-2](https://github.com/CSIPro/insights/tree/main/2023-2)
   - [Git & GitHub](https://github.com/CSIPro/insights/tree/main/2023-2/git-course)
+
+MUCHAS GRACIAS POR VENIR!! :D
